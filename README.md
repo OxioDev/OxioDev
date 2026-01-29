@@ -57,10 +57,3 @@ Vous pouvez **voir et lire la licence complète ici** :
 ## ⚠️ Disclaimer
 Le code publié ici est principalement pour **apprentissage et démonstration**.  
 Utilisation en production à vos risques et périls.
-`
-  _____     ____
- /      \  |  o | 
-|        |/ ___\| 
-|_________/     
-|_|_| |_|_|
-`
