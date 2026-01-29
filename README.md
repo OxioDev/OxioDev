@@ -42,7 +42,7 @@ Mon objectif : partager mes connaissances et progresser constamment dans le dév
 ![License](https://img.shields.io/badge/License-OxioDev-blue)
 
 ## 📜 Licence de mes projets
-Tout le code que je publie ici est sous **OxioDev License**.  
+quelques code que je publie ici est sous **OxioDev License**.  
 Vous pouvez **voir et lire la licence complète ici** :  
 [OxioDev License](https://oxiodev-license.netlify.app/)
 
