@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Salut, moi c’est **PhaseDev**
 
+## 👑 Owner & Lead Developer de **OxioDev**
 
-**OxioDev/OxioDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis le fondateur et propriétaire de **OxioDev**.  
+Ici, je publie mes projets, mes codes et expérimentations.  
+Mon objectif : partager mes connaissances et progresser constamment dans le développement.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💻 Ce que je fais
+- Développement de projets web et logiciels
+- Création de prototypes et POCs
+- Partage de code propre et fonctionnel
+- Apprentissage continu et optimisation
 
+---
+
+## 📦 Repositories disponibles
+- Projets en cours et terminés
+- Outils et scripts
+- Démonstrations techniques
+- Ressources pour développeurs
+
+---
+
+## 🛠 Technologies
+- JavaScript / Node.js / React
+- Python / Django / Flask
+- HTML / CSS / Tailwind
+- Bases de données SQL et NoSQL
+- Docker, Git, CI/CD
+
+---
+
+## 🚀 Philosophie
+> Le code est un outil pour créer et expérimenter.  
+> Chaque projet est une opportunité d’apprendre et d’améliorer ses compétences.
+
+---
+
+## 📫 Contact
+- Mail Pro : OxioDev-PhaseDev@proton.me
+- Organisation : **OxioDev**
+
+---
+
+## ⚠️ Disclaimer
+Le code publié ici est principalement pour **apprentissage et démonstration**.  
+Utilisation en production à vos risques et périls.
