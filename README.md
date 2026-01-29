@@ -72,7 +72,6 @@ Utilisation en production à vos risques et périls.
 | Deploys per month | 5 | 10 | 50 |
 | Serverless functions | 10/day | 50/day | 200/day |
 | Ads / Watermark | ✅ Always on | ⚡ Toggle ON/OFF | ❌ Always removed and a toggle in ads |
-| Dashboard access | Limited | Full | Full + Team management |
 | Support | Community | Email (48h) | Priority Email + Chat |
 | Backups | Manual | Weekly | Daily |
 
